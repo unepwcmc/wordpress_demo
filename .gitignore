@@ -20,10 +20,10 @@ xmlrpc.php
 
 *.sql
 *.sql.gz
-/config/database.yml
-/config/deploy.rb
-/config/deploy/staging.rb
-/config/deploy/production.rb
+#/config/database.yml
+#/config/deploy.rb
+#/config/deploy/staging.rb
+#/config/deploy/production.rb
 
 node_modules
 .DS_Store
